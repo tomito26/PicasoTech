@@ -72,7 +72,7 @@ a:hover {
     }
 }
 
-@media(max-width: 858px) {
+@media only screen and (max-width:600px) {
     .checkbtn {
         display: block;
     }
@@ -105,7 +105,7 @@ a:hover {
 }
 
 #landingpage {
-    background: url(../image/techie.jpg) no-repeat;
+    background: url(../image/tech.jpg) no-repeat;
     background-size: cover;
     height: calc(100vh - 80px)
 }
