@@ -107,5 +107,6 @@ a:hover {
 #landingpage {
     background: url(../image/tech.jpg) no-repeat;
     background-size: cover;
+    background-position: center;
     height: calc(100vh - 80px)
 }
